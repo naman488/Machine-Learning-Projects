@@ -1,1 +1,1 @@
-This repositorie conatins machine learning projects
+This repository conatins machine learning projects
